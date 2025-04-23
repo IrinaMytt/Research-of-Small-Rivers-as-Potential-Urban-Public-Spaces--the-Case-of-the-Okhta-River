@@ -34,9 +34,9 @@ The developed approach combines spatial analysis, non-spatial analysis of the ar
 - A **PSQ Index** (Public Space Quality Index) evaluating spatial accessibility, safety, environmental metrics, and facilities available;
 - A **Sociological Survey** to get more quantitative data, initiate public engagement, analyse needs and preferences of residents, get more redesigning ideas, correlate this data with spatial and non-spatial analysis results gathered.
 
-#### Structure of the repository
+## Structure of the repository
 
-##### Articles by the author
+## Articles by the author
 
 Aleksandrov F.T., Akhmitzanova I.A. ITMO University Urban Studies Students' Awarness of Sustainable Development Fundamentals and Practices // Современная урбанистика: социальное благополучие и цифровая трансформация города: сборник материалов международной научно-практической конференции (Минск, 30 ноября 2023 г.) - 2024, pp. 15-21. URL: https://elib.bsu.by/handle/123456789/310938 
 
